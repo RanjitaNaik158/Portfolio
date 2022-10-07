@@ -1,0 +1,77 @@
+.stars
+{
+    color: rgb(215, 195, 14);
+}
+.btn{
+    border-radius: 40px;
+    padding: 2px;
+    width: 100px;
+    border-color: #0e387a;
+    }
+    /* body{
+        font-size: 12px;
+    } */
+    .left-section
+    {
+        font-size: 16px;
+    }
+   /* .bottomtext p */
+    /* { */
+        /* font-size: 80%; */
+        /* font-weight: 900; */
+    /* } */
+    /* .bottomheading-container */
+    /* { */
+        /* font-size: 30px; */
+    /* } */
+    /* .bottomheading
+    {
+        font-size: 20px;
+    } */
+    /* .bottomheading-container .bottomheading p.bottomtext
+    {
+        font-size: 30px;
+    } */
+    .listspaneading
+    {
+        font-size: 14px;
+    }
+    .a{
+        font-size: 14px;
+    }
+    .bottomtext
+    {
+        font-size: 14px;
+    }
+    /* .right-section
+    {
+        font-size: 29px;
+    } */
+    #responsibility
+    {
+        font-size: 14px;
+    }
+    #responsibility1
+    {
+        font-size: 14px;
+    }
+    .listspaneading
+    {
+        font-size: 14px;
+    }
+    .project
+    {
+        font-size: 14px;
+    }
+    .noofachi
+    {
+        font-size: 14px;
+    }
+    .educationwrapper
+    {
+        font-size: 14px;
+    }
+    .profile
+    {
+        font-size: 14px;
+    }
